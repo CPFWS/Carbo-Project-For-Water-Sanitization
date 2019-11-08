@@ -1,4 +1,4 @@
-# Carbo Project For Water Sanitization
+# Carbo Project For Water Sanitation
 # <img src="https://github.com/CPFWS/Carbo-Project-For-Water-Sanitization/blob/master/Logo%20del%20proyecto.png?raw=true">
 # Objetivo del proyecto
 El proyecto de carbono para la sanitización de agua es un proyecto nacido en 2019 con la finalidad de poder encontrar formas rápidas y económicas de la purificación del agua, así como para su reutilización en los diferentes sectores de producción. La idea de este proyecto es que cualquier persona pueda terminar con un purificador por poco dinero y también de una manera simple de entender.
