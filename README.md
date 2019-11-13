@@ -9,3 +9,6 @@ En orden para iniciar a construir la máquina de saneamiento se necesita tener c
 Primeramente es necesario leer el manual de construcción de la máquina, contenido en: https://github.com/CPFWS/Carbo-Project-For-Water-Sanitization/blob/master/COPFWS.docx, en segundo puesto la programación necesaria para el funcionamiento de Arduino esta contenida dentro de el siguiente link: https://github.com/CPFWS/Carbo-Project-For-Water-Sanitization/blob/master/ProgramacionArduino.txt
 # Feedback del proyecto
 Cualquier feedback o comentarios al proyecto será recibido en: carboprojectwater@gmail.com
+# What´s next?
+Este prototipo solamente es el primer paso hacia una máquina de saneamiento de agua perfeccionada
+Los siguientes pasos dentro del proyecto son, crear el sellado casi perfecto, además de ser autosustentables para lograr un consumo cero de energía eléctrica, así como de combustible alguno.
